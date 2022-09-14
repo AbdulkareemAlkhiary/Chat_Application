@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346860523503",
+    "project_id": "flash-chat-aafa1",
+    "storage_bucket": "flash-chat-aafa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346860523503:android:f0e617dbd9ee19a6e0701a",
+        "android_client_info": {
+          "package_name": "com.Abdulkareem.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346860523503-gh3ulc416v6fhruuit0qnp9pp1vsiiqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrWIV_mop5uG4Vn_ZqE1A3H-cylkhQDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346860523503-gh3ulc416v6fhruuit0qnp9pp1vsiiqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
